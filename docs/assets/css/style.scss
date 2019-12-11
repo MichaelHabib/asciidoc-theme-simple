@@ -1,8 +1,6 @@
 ---
 ---
-body{
-  background: red;
-}
+ 
 @import "{{ site.theme }}";
 //@import "../assets/scss/bootstrap-wireframe.scss"
 @import "main.scss"
