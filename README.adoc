@@ -1,2 +1,6 @@
 # asciidoc-theme-simple
+
 https://michaelhabib.github.io/asciidoc-theme-simple/
+
+https://raw.githubusercontent.com/MichaelHabib/asciidoc-theme-simple/master/src/js/main.js
+https://raw.githubusercontent.com/MichaelHabib/asciidoc-theme-simple/master/src/css/main.css
